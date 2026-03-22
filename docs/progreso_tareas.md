@@ -1,0 +1,24 @@
+# Plan del Proyecto: Arquitectura FullStack (Node.js + ReactJS)
+
+- [x] Fase 1: Análisis y Diagnóstico del Backend
+  - [x] Clonar el repositorio `APP-Pelis` para evaluación
+  - [x] Analizar estructura, dependencias y patrones de diseño
+  - [x] Documentar hallazgos y áreas de mejora
+- [x] Fase 2: Arquitectura y Planeación Técnica Detallada
+  - [x] Elaborar propuesta de Arquitectura Limpia/MVC en Backend
+  - [x] Proponer estructura del Frontend en ReactJS
+  - [x] Solicitar aprobación del plan
+- [x] Fase 3: Construcción y Refactorización del Backend
+  - [x] Aplicar la estructura aprobada
+  - [x] Implementar la API REST segura y escalable
+- [x] Fase 4: Diseño y Desarrollo del Frontend
+  - [x] Inicializar proyecto React (Vite)
+  - [x] Crear componentes y conectar API REST
+- [x] Documentación Final
+  - [x] Actualizar README.md principal
+- [x] Pruebas Finales de Integración
+  - [x] Validar Endpoints de la API (Backend)
+  - [x] Verificar flujo CRUD en el Frontend (Navegador)
+- [x] Mejoras Funcionales y Visuales
+  - [x] Implementar botones de Editar y Eliminar en todos los módulos
+  - [x] Configurar Logo (Favicon y Header)
