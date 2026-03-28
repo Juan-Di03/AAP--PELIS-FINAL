@@ -4,7 +4,9 @@ const cors = require('cors');
 const app = express();
 
 // Middlewares Globales
-app.use(cors());
+app.use(cors({
+  origin: 'https://aap-pelis-final.onrender.com/' // Se modifica para despliege
+}));
 app.use(express.json());
 
 app.use('/api/generos', require('./routes/genero-routes'));
