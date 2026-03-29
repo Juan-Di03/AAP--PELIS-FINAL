@@ -1,5 +1,6 @@
 const { Router } = require('express');
 const { getProductoras, createProductora, updateProductora } = require('../controllers/productoraController');
+const Productora = require('../models/Productora');
 
 const router = Router();
 
